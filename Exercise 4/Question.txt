@@ -1,0 +1,7 @@
+Hyperparameter optimization
+
+Both the CNN and RNN notebooks showed improvements over the 50% random baseline, however, this does not represent a particularly high level of performance for this dataset. Can you improve on the performance by adjusting the hyperparameters?
+
+Report which hyperparameters you modified and how these modifications affected the results. What is the highest accuracy you were able to achieve?
+
+You can experiment with these hyperparameters (or any other parameters you find interesting): max_length, embedding_dim, filter_size (CNN), num_filters (CNN), hidden_size (RNN), nonlinearity (RNN), learning_rate, per_device_train_batch_size, max_steps
