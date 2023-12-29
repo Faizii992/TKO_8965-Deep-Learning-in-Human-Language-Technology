@@ -1,1 +1,6 @@
 
+Neural attention
+
+a) Read the paper Attention is not Explanation, which argues against using attention weights as an explanation of model's predictions. Briefly summarize the key findings of the paper (no need to understand all details).
+
+b) Attention is not not Explanation challenges the previous paper. What is the key point of this paper?
