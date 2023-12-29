@@ -1,1 +1,12 @@
 
+BERT model
+
+Here is a Notebook for loading a pre-trained BERT model (BertModel and BertModelForPreTraining).
+
+BertModelForPreTraining loads the model with the masked language modelling head used during pre-training.
+
+Examine the notebook, and as an exercise, try to solve TWO of the following tasks related to language modelling:
+
+    1) How good is BERT at the masked language modelling (MLM) task? Feed random texts e.g. from the IMDB dataset, mask a random token at a time, and check: did BERT predict it correctly?
+    2) If you did (1), can you answer did BERT predict it correctly in top-5?
+    3) Try can you do better. Make yourself a program which picks random texts from one of the datasets we used in this course and produces two files: one with segments of texts with one [MASK] and one with the correct answers. Then try to guess the words without looking at the latter file and then compare your answers with the correct ones. How well did you do?
