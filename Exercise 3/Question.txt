@@ -1,1 +1,9 @@
+Text classification using CNNs and RNNs
 
+We have prepared two notebooks for training a sentiment classifier using the IMDB movie review dataset. The first notebook uses a CNN text classification model while the second notebook uses a simple RNN model.
+
+Your task is to carefully study the notebooks, and write a step-by-step summary of key steps to train and evaluate such a model. Keep in mind that many of these steps will be applicable throughout the course, even if the specific model differs. Therefore, it is essential to grasp the key concepts.
+
+The summary can be composed as e.g. a bulleted list with a brief explanation of each step (including its purpose, input, output, etc.) or as comments within the code in the original notebook. The primary goal of this exercise is to facilitate learning, so the choice of how you write the summary is entirely up to you. Focus on highlighting the key concepts.
+
+Upload as a notebook or a text file.
