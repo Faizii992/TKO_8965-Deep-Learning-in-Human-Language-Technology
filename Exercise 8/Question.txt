@@ -1,1 +1,13 @@
 
+Read the Attention Is All You Need paper that originally introduced the Transformer model, and make sure you understand the general idea of the model. For each top-level section (1. Introduction, 2 Background, 3 Model Architecture, 4 Why Self-Attention etc.), write a one sentence long summary of the section as well as one thing you learned from that section or otherwise found particularly interesting.
+
+Use the following format to present your findings:
+
+1. Introduction
+
+Summary: [Your one sentence summary goes here]
+
+What I learned or found interesting: [Your description goes here]
+
+
+Return as a notebook or text file.
