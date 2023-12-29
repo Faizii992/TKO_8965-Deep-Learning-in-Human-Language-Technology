@@ -1,1 +1,9 @@
+Question: 
 
+Pipelines
+
+Pipelines in the transformers library provide an easy way to use state-of-the-art deep learning models for various tasks. Documentation is available here.
+
+Create a text generation pipeline using a suitable model from the HuggingFace model repository and test its generation capabilities. You can find suitable models for this tasks by selecting the "text generation" from the left sidebar. For example, you can use https://huggingface.co/gpt2 for English. Remember that most of these are not trained to follow instructions.
+
+Upload your solutions as a .ipynb notebook, preferably, or a .py file with its output if needs be.
