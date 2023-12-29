@@ -1,1 +1,8 @@
 
+Advanced RNN architectures
+
+a) Start from last week's RNN notebook, and update it to use an LSTM cell instead of the vanilla RNN cell. You can begin by simply replacing torch.nn.RNN with torch.nn.LSTM. However, expect a few errors. Try to debug the code by examining the error messages and referring to the RNN and LSTM cell documentation.
+
+b) After successfully training with the LSTM cell, attempt to enhance performance by implementing bidirectional and stacked architectures. Once again, few errors are to be expected.
+
+Return the updated notebook. 
