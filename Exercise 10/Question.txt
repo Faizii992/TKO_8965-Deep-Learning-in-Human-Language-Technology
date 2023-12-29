@@ -1,1 +1,14 @@
 
+In this week's lecture, we discussed prompting and zero-, one- and few-shot task settings of generative language models. 
+
+Your task is to assess whether a generative model succeeds in the following tasks in zero-shot, one-shot, and few-shot settings. Select one of the tasks:
+
+    QA of simple questions (capital cities, currency, president...)
+    Classification (sentiment, news topic, language identification...)
+    Extracting facts from the given text (names, numbers, countries...)
+
+Design a prompt for the task and test a model in zero-shot, one-shot, and few-shot settings. We suggest you try gpt-neo-1.3B, or gpt-neo-2.7B but you can try out any model suitable for text generation.
+
+Reminder: You can use pipelines.
+
+Return a notebook including your code as well as a short summary of your findings.
